@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d11511b8.chunk.css",
+    "main.js": "/static/js/main.e5cf7fc4.chunk.js",
+    "main.js.map": "/static/js/main.e5cf7fc4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.ffd5d0b1.chunk.js": "/static/js/2.ffd5d0b1.chunk.js",
+    "static/js/2.ffd5d0b1.chunk.js.map": "/static/js/2.ffd5d0b1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c0b762a03b61b69d9402c38f9c10af4a.js": "/precache-manifest.c0b762a03b61b69d9402c38f9c10af4a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d11511b8.chunk.css.map": "/static/css/main.d11511b8.chunk.css.map",
+    "static/js/2.ffd5d0b1.chunk.js.LICENSE.txt": "/static/js/2.ffd5d0b1.chunk.js.LICENSE.txt",
+    "static/media/cts.jpg": "/static/media/cts.61ec52dc.jpg",
+    "static/media/hcl.png": "/static/media/hcl.3162750e.png",
+    "static/media/resume.pdf": "/static/media/resume.3781be54.pdf",
+    "static/media/srinath.jpg": "/static/media/srinath.5c30ec06.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.ffd5d0b1.chunk.js",
+    "static/css/main.d11511b8.chunk.css",
+    "static/js/main.e5cf7fc4.chunk.js"
+  ]
+}
